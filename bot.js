@@ -13,4 +13,4 @@ client.on("ready", () => {
  
  });
  
- client.login("ODg2NTUyNjM1Mzg0MTUyMDc1.YT3Qew.07DrNeE_v1AiyXq9bfGpkhy2u7A");
+ client.login("TokenDeMiBot");
